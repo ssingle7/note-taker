@@ -20,9 +20,16 @@ Clone the repository to your local development environment.
 
 Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3000 in your preferred browser. The Note Taker app is also live on Heroku for use.
 
-### Preview 
+## Preview 
 
-![Team Profile](./TeamProfile.PNG)
+![note taker](./notetaker.PNG)
+
+![NoteTaker](./Note Taker.gif)
+
+
+## Deployed Link
+
+
 
 ### Credits
 
