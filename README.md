@@ -29,7 +29,7 @@ Run npm install to install all dependencies. To use the application locally, run
 
 ## Deployed Link
 
-
+https://github.com/ssingle7/note-taker
 
 ### Credits
 
