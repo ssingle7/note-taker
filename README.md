@@ -22,9 +22,9 @@ Run npm install to install all dependencies. To use the application locally, run
 
 ## Preview 
 
-![note taker](/note taker.PNG)
+![note taker](./notetaker.PNG)
 
-![NoteTaker](./Note Taker.gif)
+![NoteTaker](./NoteTaker.gif)
 
 
 ## Deployed Link
